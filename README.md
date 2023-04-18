@@ -1,8 +1,8 @@
-# Meteor Addon Template
+# Zero Addon DEV 0.01
 
-A template to allow easy usage of the Meteor Addon API.
+Utility addon for Meteor Client
 
-### How to use:  
-- Clone this project
-- Use this template to create new modules/commands
-- Run the mod with Meteor.
+Current Features:
+-Logo Display
+-Better HUD
+--------------
